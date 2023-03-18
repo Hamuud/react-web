@@ -1,0 +1,119 @@
+* {
+    padding: 0;
+    margin: 0;
+    background: #323030;
+}
+#root{
+    background: #323030;
+    display: flex;
+    flex-direction: column;
+}
+.App {
+    background: #323030;
+    margin-left: 20%;
+    width: 60%;
+    align-items: center;
+}
+
+.post {
+    font-family: "Open Sans", sans-serif;
+    color: #ffffff;
+    background: #323030;
+    display: flex;
+    padding: 15px;
+    border: 2px solid #CDBEA7;
+    margin-top: 15px;
+    justify-content: center;
+    align-items: center;
+}
+.post__btns {
+    display: flex;
+}
+.post-enter {
+    transform: translateX(-350px);
+}
+.post-enter-active {
+    transform: translateX(0px);
+    transition: all 500ms ease-in;
+}
+.post-exit {
+    opacity: 1;
+}
+.post-exit-active {
+    transform: translateX(-350px);
+    transition: all 500ms ease-in;
+}
+
+.page__wrapper {
+    align-items: center;
+    margin-top: 30px;
+    display: flex;
+}
+.page {
+    color: #ffffff;
+    align-items: center;
+    padding: 10px;
+    border: 2px solid #CDBEA7;
+    cursor: pointer;
+}
+
+.page__current {
+    color: #ffffff;
+    align-items: center;
+    border: 3px solid #C29545;
+    font-weight:bold;
+}
+
+
+
+.body {
+    background: #323030;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+
+
+
+.link__logo {
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+    font-weight: bold;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    font-size: 36px;
+}
+
+h1 { color: #ffffff;
+    font-family: 'Raleway',sans-serif;
+    font-size: 62px;
+    font-weight: 800;
+    line-height: 72px;
+    margin: 0 0 24px;
+    text-align: center;
+    text-transform: uppercase; }
+
+
+h2 {     color: #ffffff;
+    font-family: 'Raleway',sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 36px;
+    margin: 0 0 24px;
+    text-align: left;
+}
+
+
+p {
+    color: #ffffff;
+    font-family: 'Raleway',sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 32px;
+    margin: 0 0 24px;
+}
+
+
+

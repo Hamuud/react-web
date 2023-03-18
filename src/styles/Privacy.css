@@ -1,0 +1,25 @@
+* {
+    background: #323030;
+}
+#root{
+    background: #323030;
+    display: flex;
+    flex-direction: column;
+}
+
+.Privacy__main {
+    color: #BFBDC0;
+    background: #323030;
+    margin-left: 10%;
+    width: 70%;
+    display: flex;
+}
+.ul__num {
+    color: #ffffff;
+    font-family: 'Raleway',sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 32px;
+    margin: 0 0 24px;
+}
+

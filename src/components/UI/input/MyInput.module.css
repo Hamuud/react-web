@@ -1,0 +1,17 @@
+
+.MyInput {
+    width: 175px;
+    box-sizing: border-box;
+    border: 2px solid #CDBEA7;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: #EEF6F9;
+    background-image: url('/src/icons8-поиск-32.png');
+    background-position: 5px 5px;
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    transition: width 0.4s ease-in-out;
+}
+.MyInput:focus {
+    width: 100%;
+}
