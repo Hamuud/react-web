@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactWeb/static/css/main.d43a72bb.css",
+    "main.js": "/ReactWeb/static/js/main.7d1ab200.js",
+    "static/media/camp.png": "/ReactWeb/static/media/camp.c5e81d2716e6f844c9dc.png",
+    "static/media/Artem.jpg": "/ReactWeb/static/media/Artem.18a5973edface0b8eb9f.jpg",
+    "static/media/1024.png": "/ReactWeb/static/media/1024.6c4b4e04aa3b6b0999b0.png",
+    "static/media/2022-08-05 16.57.01.jpg": "/ReactWeb/static/media/2022-08-05 16.57.01.75ae5efc4ec9e1283a95.jpg",
+    "static/media/BallMazer1.1.png": "/ReactWeb/static/media/BallMazer1.1.90aa39e92aa1c8e5cd09.png",
+    "static/media/2022-08-05 16.57.23.jpg": "/ReactWeb/static/media/2022-08-05 16.57.23.76c3aee2b0ea79469246.jpg",
+    "static/media/Lighthouse.jpg": "/ReactWeb/static/media/Lighthouse.b28f9dc312ebdc421ab7.jpg",
+    "static/media/2022-08-05 16.57.08.jpg": "/ReactWeb/static/media/2022-08-05 16.57.08.0867adfbdd3805bdea07.jpg",
+    "static/media/Japan.jpg": "/ReactWeb/static/media/Japan.c3d53e9fe2b08b95113b.jpg",
+    "static/media/Camping.jpg": "/ReactWeb/static/media/Camping.56544fc3d754cfc7408e.jpg",
+    "index.html": "/ReactWeb/index.html",
+    "main.d43a72bb.css.map": "/ReactWeb/static/css/main.d43a72bb.css.map",
+    "main.7d1ab200.js.map": "/ReactWeb/static/js/main.7d1ab200.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d43a72bb.css",
+    "static/js/main.7d1ab200.js"
+  ]
+}
